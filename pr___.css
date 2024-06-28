@@ -42,7 +42,7 @@ body{
     display: none;
     position: absolute;
     left: 60%;
-    top: 35%;
+    top: 44%;
 }
 #P2{
     background-color: darkgreen;
@@ -51,7 +51,7 @@ body{
     display: none;
     position: absolute;
     left: 60%;
-    top: 50%;
+    top: 58%;
 }
 #P3{
     background-color: darkgreen;
@@ -60,7 +60,7 @@ body{
     display: none;
     position: absolute;
     left: 60%;
-    top: 55%;
+    top: 65%;
 }
 #P4{
     background-color: darkgreen;
@@ -69,7 +69,7 @@ body{
     display: none;
     position: absolute;
     left: 60%;
-    top: 75%;
+    top: 93%;
 }
 #I1{
     background-color: rgb(173, 201, 230);
@@ -77,7 +77,7 @@ body{
     font-size: larger;   
     display: none; 
     position: absolute;
-    top: 35%;
+    top: 37%;
     left: 70%;
 }
 #I2{
@@ -86,7 +86,7 @@ body{
     font-size: larger;   
     display: none; 
     position: absolute;
-    top: 50%;
+    top: 58%;
     left: 70%;
 }
 #I3{
@@ -95,7 +95,7 @@ body{
     font-size: larger;   
     display: none; 
     position: absolute;
-    top: 60%;
+    top: 72%;
     left: 70%;
 }
 #I4{
@@ -104,7 +104,7 @@ body{
     font-size: larger;   
     display: none; 
     position: absolute;
-    top: 70%;
+    top: 86%;
     left: 60%;
 }
 #U1{
@@ -123,7 +123,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 40%;
+    top: 44%;
     left: 70%;
  
 }
@@ -133,7 +133,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 60%;
+    top: 72%;
     left: 60%;
  
 }
@@ -143,7 +143,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 65%;
+    top: 79%;
     left: 70%;
  
 }
@@ -153,7 +153,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 35%;
+    top: 37%;
     left: 60%;
 
 }
@@ -163,7 +163,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 45%;
+    top: 51%;
     left: 60%;
 
 }
@@ -173,7 +173,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 65%;
+    top: 79%;
     left: 60%;
 
 }
@@ -183,7 +183,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 75%;
+    top: 93%;
     left: 70%;
 
 }
@@ -203,7 +203,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 45%;
+    top: 51%;
     left: 70%;
 
 }
@@ -213,7 +213,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 55%;
+    top: 65%;
     left: 70%;
 
 }
@@ -223,7 +223,7 @@ body{
     font-size: larger;  
     display: none; 
     position: absolute;
-    top: 70%;
+    top: 86%;
     left: 70%;
 
 }
@@ -809,162 +809,142 @@ body{
 
 }
 #PAKISTAN{
-    width: 8%;
-    background-color: darkgreen;
-    color: black;  
+    color: darkgreen;  
     font-size: larger; 
     display: none; 
- 
+    font-weight:bolder
+
 }
 #INDIA{
-    background-color: rgb(173, 201, 230);
-    width: 4%;
-    color: black; 
+    color: rgb(173, 201, 230);
+    font-weight:bolder;   
     font-size: larger;  
     display: none; 
 }
 #AUSTRALIA{
-    width: 8%;
-    background-color: darkgreen;
-    color: black;  
+    color: darkgreen;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #ENGLAND{
-    width: 7%;
-    background-color: red;
-    color: black;   
+    color: red;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #SOUTHAFRICA{
-    width: 10%;
-    background-color: yellow;
-    color: black;    
+    color: yellow;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #SRILANKA{
-    width: 7%;
-    background-color: darkblue;
-    color: black;  
+    color: darkblue;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #NEWZEALAND{
-    width: 10%;
-    background-color: skyblue;
-    color: black; 
+    color: skyblue;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #WESTINDIES{
-    width: 10%;
-    background-color: maroon;
-    color: black;   
+    color: maroon;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #_USA{
-    width: 3%;
-    background-color: purple;
-    color: black;  
+    color: purple;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #UGANDA{
-    background-color: yellow;
-    color: black;    
+    color: yellow;
     font-size: larger;  
-    width: 6%;
     display: none; 
+    font-weight:bolder
 
 }
 #SCOTLAND{
-    background-color: purple;
-    color: black;   
+    color: purple;
     font-size: larger;  
-    width: 8%;
     display: none; 
+    font-weight:bolder
 
 }
 #OMAN{
-    background-color: red;
-    color: black;
+    color: red;
     font-size: larger;  
-    width: 5%;
     display: none; 
+    font-weight:bolder
 
 }
 #IRELAND{
-    background-color: lightgreen;
-    color: black;    
+    color: lightgreen;
     font-size: larger;  
-    width: 7%;
     display: none; 
+    font-weight:bolder
 
 }
 #CANADA{
-    background-color: red;
-    color: black;    
+    color: red;
     font-size: larger;  
-    width: 7%;
     display: none; 
+    font-weight:bolder
 
 }
 #NAMIBIA{
-    background-color: darkblue;
-    color: black;    
+    color: darkblue;
     font-size: larger;  
-    width: 7%;
     display: none; 
+    font-weight:bolder
 
 }
 #BANGLADESH{
-    width: 10%;
-    background-color: darkgreen;
-    color: black;   
+    color: darkgreen;
     font-size: larger; 
     display: none; 
+    font-weight:bolder
  
 }
 #AFGHANISTAN{
-    width: 10%;
-    background-color: rgb(0, 32, 139);
-    color: black;    
+    color: rgb(0, 32, 139);
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #_PNG{
-    background-color: rgb(255, 13, 0);
-    color: black;       
+    color: rgb(255, 13, 0);
     font-size: larger;  
-    width: 3%;
     display: none; 
+    font-weight:bolder
 
 }
 #NEPAL{
-    width: 5%;
-    background-color: blue;
-    color: black; 
+    color: blue;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 #NETHERLAND{
-    width: 10%;
-    background-color: orangered;
-    color: black;   
+    color: orangered;
     font-size: larger;  
     display: none; 
+    font-weight:bolder
 
 }
 .PAKISTAN{
