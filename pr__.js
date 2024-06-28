@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function()
                 {
                     if(w1%5==0)
                     {
-                        move_up=move_up+10
+                        move_up=move_up+15
                         move_side=16
                         label_array[w1]=table_array[i][j]
                         label_array[w1].style.display="block-inline"
@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", function()
                     }
                     else
                     {
-                        move_side=move_side+8
+                        move_side=move_side+10
                         label_array[w1].textContent=table_array[i][j]
                         label_array[w1].style.position="absolute"
                         label_array[w1].style.top=move_up+"%"
