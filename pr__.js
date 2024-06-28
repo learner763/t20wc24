@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function()
                         move_up=move_up+10
                         move_side=16
                         label_array[w1]=table_array[i][j]
-                        label_array[w1].style.display="block"
+                        label_array[w1].style.display="block-inline"
                         label_array[w1].style.position="absolute"
                         label_array[w1].style.top=move_up+"%"
                         label_array[w1].style.left=move_side+"%"
