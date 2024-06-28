@@ -2,13 +2,6 @@ body{
     background-color: blueviolet;
     color: black;
     font-size: larger;   
-    font-family: 'Roboto', sans-serif;
-    padding: 20px;
-}
-.container {
-    background-color: #f8f9fa;
-    padding: 20px;
-    border-radius: 8px;
 }
 #G1{
     background-color: gold;
@@ -49,7 +42,7 @@ body{
     display: none;
     position: absolute;
     left: 60%;
-    top: 40%;
+    top: 35%;
 }
 #P2{
     background-color: darkgreen;
