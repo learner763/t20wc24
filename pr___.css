@@ -2,6 +2,8 @@ body{
     background-color: blueviolet;
     color: black;
     font-size: larger;   
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
 }
 #G1{
     background-color: gold;
