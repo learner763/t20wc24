@@ -1,0 +1,1129 @@
+body{
+    background-color: blueviolet;
+    color: black;
+    font-size: larger;   
+}
+#G1{
+    background-color: gold;
+    color: black;
+    font-size: larger;  
+    position: absolute;
+    left: 0%;
+    top: 30%;
+}
+#G2{
+    background-color: gold;
+    color: black;
+    font-size: larger;  
+    position: absolute;
+    left: 0%;
+    top: 40%;
+}
+#G3{
+    background-color: gold;
+    color: black;
+    font-size: larger;  
+    position: absolute;
+    left: 0%;
+    top: 50%;
+}
+#G4{
+    background-color: gold;
+    color: black;
+    font-size: larger;  
+    position: absolute;
+    left: 0%;
+    top: 60%;
+}
+#P1{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+}
+#P2{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none;
+    position: absolute;
+    left: 60%;
+    top: 50%;
+}
+#P3{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none;
+    position: absolute;
+    left: 60%;
+    top: 55%;
+}
+#P4{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none;
+    position: absolute;
+    left: 60%;
+    top: 75%;
+}
+#I1{
+    background-color: rgb(173, 201, 230);
+    color: black;
+    font-size: larger;   
+    display: none; 
+    position: absolute;
+    top: 35%;
+    left: 70%;
+}
+#I2{
+    background-color: rgb(173, 201, 230);
+    color: black;
+    font-size: larger;   
+    display: none; 
+    position: absolute;
+    top: 50%;
+    left: 70%;
+}
+#I3{
+    background-color: rgb(173, 201, 230);
+    color: black;
+    font-size: larger;   
+    display: none; 
+    position: absolute;
+    top: 60%;
+    left: 70%;
+}
+#I4{
+    background-color: rgb(173, 201, 230);
+    color: black;
+    font-size: larger;   
+    display: none; 
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+#U1{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 30%;
+    left: 60%;
+ 
+}
+#U2{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 40%;
+    left: 70%;
+ 
+}
+#U3{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 60%;
+    left: 60%;
+ 
+}
+#U4{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 65%;
+    left: 70%;
+ 
+}
+#IR1{
+    background-color: lightgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 35%;
+    left: 60%;
+
+}
+#IR2{
+    background-color: lightgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 45%;
+    left: 60%;
+
+}
+#IR3{
+    background-color: lightgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 65%;
+    left: 60%;
+
+}
+#IR4{
+    background-color: lightgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 75%;
+    left: 70%;
+
+}
+#C1{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 30%;
+    left: 70%;
+
+}
+#C2{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 45%;
+    left: 70%;
+
+}
+#C3{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 55%;
+    left: 70%;
+
+}
+#C4{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 70%;
+    left: 70%;
+
+}
+#A1{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 40%;
+    left: 70%;
+}
+#A2{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 50%;
+    left: 70%;
+}
+#A3{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 60%;
+    left: 70%;
+}
+#A4{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none;
+    position: absolute;
+    top: 75%;
+    left: 70%; 
+}
+#E1{
+    background-color: red;
+    color: black;
+    font-size: larger; 
+    display: none;  
+    position: absolute;
+    top: 35%;
+    left: 70%;
+}
+#E2{
+    background-color: red;
+    color: black;
+    font-size: larger; 
+    display: none;  
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+#E3{
+    background-color: red;
+    color: black;
+    font-size: larger; 
+    display: none;  
+    position: absolute;
+    top: 65%;
+    left: 70%;
+}
+#E4{
+    background-color: red;
+    color: black;
+    font-size: larger; 
+    display: none;  
+    position: absolute;
+    top: 70%;
+    left: 70%;
+}
+#S1{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 35%;
+    left: 60%;
+}
+#S2{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 45%;
+    left: 70%;
+}
+#S3{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 55%;
+    left: 70%;
+}
+#S4{
+    background-color: purple;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 75%;
+    left: 60%;
+}
+#N1{
+    background-color: darkblue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    top: 30%;
+    left: 70%;
+}
+#N2{
+    background-color: darkblue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    top: 45%;
+    left: 60%;
+}
+#N3{
+    background-color: darkblue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    top: 60%;
+    left: 60%;
+}
+#N4{
+    background-color: darkblue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+#O1{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 30%;
+    left: 60%;
+}
+#O2{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+#O3{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 55%;
+    left: 60%;
+}
+#O4{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    top: 65%;
+    left: 60%;
+}   
+#SA1{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+#SA2{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 45%;
+}
+#SA3{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 50%;
+}
+#SA4{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 65%;
+}
+#SL1{
+    background-color: darkblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 30%;
+}
+#SL2{
+    background-color: darkblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 40%;
+}
+#SL3{
+    background-color: darkblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 55%;
+}
+#SL4{
+    background-color: darkblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 75%;
+}
+#B1{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 40%;
+}
+#B2{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 50%;
+}
+#B3{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 60%;
+}
+#B4{
+    background-color: darkgreen;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 70%;
+}
+#NE1{
+    background-color: orangered;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 35%;
+}
+#NE2{
+    background-color: orangered;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 45%;
+}
+#NE3{
+    background-color: orangered;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 60%;
+}
+#NE4{
+    background-color: orangered;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 75%;
+}
+#NEP1{
+    background-color: blue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 35%;
+}
+#NEP2{
+    background-color: blue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 55%;
+}
+#NEP3{
+    background-color: blue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 65%;
+}
+#NEP4{
+    background-color: blue;
+    color: black;
+    font-size: larger; 
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 70%;
+}
+#AFG1{
+    background-color: rgb(0, 32, 139);
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 35%;
+}
+#AFG2{
+    background-color: rgb(0, 32, 139);
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 45%;
+}
+#AFG3{
+    background-color: rgb(0, 32, 139);
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 60%;
+}
+#AFG4{
+    background-color: rgb(0, 32, 139);
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 75%;
+}   
+#UG1{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 35%;
+}   
+#UG2{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 40%;
+}
+#UG3{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 50%;
+}
+#UG4{
+    background-color: yellow;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 65%;
+}
+#PNG1{
+    background-color: rgb(255, 13, 0);
+    color: black;
+    font-size: larger;  
+    display:none; 
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+#PNG2{
+    background-color: rgb(255, 13, 0);
+    color: black;
+    font-size: larger;  
+    display:none; 
+    position: absolute;
+    left: 60%;
+    top: 40%;
+}
+#PNG3{
+    background-color: rgb(255, 13, 0);
+    color: black;
+    font-size: larger;  
+    display:none; 
+    position: absolute;
+    left: 60%;
+    top: 60%;
+}
+#PNG4{
+    background-color: rgb(255, 13, 0);
+    color: black;
+    font-size: larger;  
+    display:none; 
+    position: absolute;
+    left: 60%;
+    top: 70%;
+}
+#NZ1{
+    background-color: skyblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 45%;
+}
+#NZ2{
+    background-color: skyblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 55%;
+}
+#NZ3{
+    background-color: skyblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 65%;
+}
+#NZ4{
+    background-color: skyblue;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 70%;
+}
+#W1{
+    background-color: maroon;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 30%;
+}
+#W2{
+    background-color: maroon;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 50%;
+}
+#W3{
+    background-color: maroon;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 71%;
+    top: 55%;
+}
+#W4{
+    background-color: maroon;
+    color: black;
+    font-size: larger;  
+    display: none; 
+    position: absolute;
+    left: 60%;
+    top: 75%;
+}
+
+#Team{
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 18%;
+    display: none; 
+
+}
+#Played{
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 27%;
+    display: none; 
+
+}
+#Won{
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 35.5%;
+    display: none; 
+
+}
+#Lost{
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 43.5%;
+    display: none; 
+    
+}
+#Points{
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    display: none; 
+
+}
+#PAKISTAN{
+    width: 7%;
+    background-color: darkgreen;
+    color: black;  
+    font-size: larger; 
+    display: none; 
+ 
+}
+#INDIA{
+    background-color: rgb(173, 201, 230);
+    width: 4%;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+}
+#AUSTRALIA{
+    width: 8%;
+    background-color: darkgreen;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+#ENGLAND{
+    width: 7%;
+    background-color: red;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+#SOUTHAFRICA{
+    width: 10%;
+    background-color: yellow;
+    color: black;    
+    font-size: larger;  
+    display: none; 
+
+}
+#SRILANKA{
+    width: 7%;
+    background-color: darkblue;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+#NEWZEALAND{
+    width: 10%;
+    background-color: skyblue;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+
+}
+#WESTINDIES{
+    width: 10%;
+    background-color: maroon;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+#_USA{
+    width: 3%;
+    background-color: purple;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+#UGANDA{
+    background-color: yellow;
+    color: black;    
+    font-size: larger;  
+    width: 6%;
+    display: none; 
+
+}
+#SCOTLAND{
+    background-color: purple;
+    color: black;   
+    font-size: larger;  
+    width: 8%;
+    display: none; 
+
+}
+#OMAN{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    width: 5%;
+    display: none; 
+
+}
+#IRELAND{
+    background-color: lightgreen;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+#CANADA{
+    background-color: red;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+#NAMIBIA{
+    background-color: darkblue;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+#BANGLADESH{
+    width: 10%;
+    background-color: darkgreen;
+    color: black;   
+    font-size: larger; 
+    display: none; 
+ 
+}
+#AFGHANISTAN{
+    width: 10%;
+    background-color: rgb(0, 32, 139);
+    color: black;    
+    font-size: larger;  
+    display: none; 
+
+}
+#_PNG{
+    background-color: rgb(255, 13, 0);
+    color: black;       
+    font-size: larger;  
+    width: 3%;
+    display: none; 
+
+}
+#NEPAL{
+    width: 5%;
+    background-color: blue;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+
+}
+#NETHERLAND{
+    width: 10%;
+    background-color: orangered;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+.PAKISTAN{
+    width: 7%;
+    background-color: darkgreen;
+    color: black;  
+    font-size: larger; 
+    display: none; 
+ 
+}
+.INDIA{
+    background-color: rgb(173, 201, 230);
+    width: 4%;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+}
+.AUSTRALIA{
+    width: 8%;
+    background-color: darkgreen;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+.ENGLAND{
+    width: 7%;
+    background-color: red;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+.SOUTHAFRICA{
+    width: 10%;
+    background-color: yellow;
+    color: black;    
+    font-size: larger;  
+    display: none; 
+
+}
+.SRILANKA{
+    width: 7%;
+    background-color: darkblue;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+.NEWZEALAND{
+    width: 10%;
+    background-color: skyblue;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+
+}
+.WESTINDIES{
+    width: 10%;
+    background-color: maroon;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+.AMERICA{
+    width: 3%;
+    background-color: purple;
+    color: black;  
+    font-size: larger;  
+    display: none; 
+
+}
+.UGANDA{
+    background-color: yellow;
+    color: black;    
+    font-size: larger;  
+    width: 6%;
+    display: none; 
+
+}
+.SCOTLAND{
+    background-color: purple;
+    color: black;   
+    font-size: larger;  
+    width: 8%;
+    display: none; 
+
+}
+.OMAN{
+    background-color: red;
+    color: black;
+    font-size: larger;  
+    width: 5%;
+    display: none; 
+
+}
+.IRELAND{
+    background-color: lightgreen;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+.CANADA{
+    background-color: red;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+.NAMIBIA{
+    background-color: darkblue;
+    color: black;    
+    font-size: larger;  
+    width: 7%;
+    display: none; 
+
+}
+.BANGLADESH{
+    width: 10%;
+    background-color: darkgreen;
+    color: black;   
+    font-size: larger; 
+    display: none; 
+ 
+}
+.AFGHANISTAN{
+    width: 10%;
+    background-color: rgb(0, 32, 139);
+    color: black;    
+    font-size: larger;  
+    display: none; 
+
+}
+.PAPUA{
+    background-color: rgb(255, 13, 0);
+    color: black;       
+    font-size: larger;  
+    width: 3%;
+    display: none; 
+
+}
+.NEPAL{
+    width: 5%;
+    background-color: blue;
+    color: black; 
+    font-size: larger;  
+    display: none; 
+
+}
+.NETHERLAND{
+    width: 10%;
+    background-color: orangered;
+    color: black;   
+    font-size: larger;  
+    display: none; 
+
+}
+
